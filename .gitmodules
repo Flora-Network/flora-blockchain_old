@@ -1,0 +1,3 @@
+[submodule "flora-blockchain-gui"]
+	path = flora-blockchain-gui
+	url = https://github.com/Flora-Network/flora-blockchain-gui.git
