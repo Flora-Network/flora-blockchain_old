@@ -10,11 +10,13 @@
 | [![Windows Installer](https://github.com/Flora-Network/flora-blockchain/actions/workflows/build-windows-installer.yml/badge.svg)](https://github.com/Flora-Network/flora-blockchain/releases/tag/0.2.3)|
 
 ## Quick Info:
-- [Discord](https://discord.com/invite/rGBfrs2d)
+- [Discord](https://discord.gg/Xhqx4aR6wQ)
 - [Website](https://floracoin.farm)
 - [Twitter](https://twitter.com/CoinFlora)
-- [Explorer (Coming soon)](https://floracoin.farm/exprlorerxfl)
-- [Faucet (Coming soon)](https://floracoin.farm/faucet)
+- [Explorer (unofficial)](https://flora.posat.io/)
+- [Calculator](https://chiaforkscalculator.com/flora)
+- [Blog](https://floracoin.farm/blog/)
+- [Database db download](https://floracoin.farm/downloads/)
 - [GitHub contributors](https://github.com/Flora-Network/flora-blockchain/graphs/contributors)
 
 Flora is a modern project built on the Chia-Blockchain, designed to be efficient, decentralized, and secure. Here are some of the features and benefits:
