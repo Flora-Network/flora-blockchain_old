@@ -107,7 +107,7 @@ Write-Output "packageName is $packageName"
 
 Write-Output "   ---"
 Write-Output "electron-packager"
-electron-packager . Flora --asar.unpack="**\daemon\**" --overwrite --icon=.\src\assets\img\chia.ico --app-version=$packageVersion
+electron-packager . Flora --asar.unpack="**\daemon\**" --overwrite --icon=.\src\assets\img\flora.ico --app-version=$packageVersion
 Write-Output "   ---"
 
 Write-Output "   ---"
